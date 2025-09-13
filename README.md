@@ -1,5 +1,5 @@
 
-# Supply Chain Performance & Profitability Command Center
+# Logistics & Profitability Insight Hub
 
 ## Project Overview
 
